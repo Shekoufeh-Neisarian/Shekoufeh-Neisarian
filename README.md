@@ -1,71 +1,44 @@
+[README (3).md](https://github.com/user-attachments/files/33358602/README.3.md)
 <div align="center">
-Shekoufeh Neisarian
-Post-Quantum Cryptography · Hardware Security · Cybersecurity
+
+# Shekoufeh Neisarian
+
+**Post-Quantum Cryptography · Hardware Security · Cybersecurity**
+
 Ph.D. Researcher | University of Passau
-Research in secure cryptographic hardware, complemented by hands-on network security and defensive analysis.
-![Research](https://img.shields.io/badge/Research-Post--Quantum_Cryptography-355C7D?style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware-FPGA_%26_Embedded_Security-355C7D?style=flat-square)
-![Security](https://img.shields.io/badge/Security-Network_Analysis-355C7D?style=flat-square)
-![Practice](https://img.shields.io/badge/Practice-TryHackMe-212C42?style=flat-square)
-Research · Technical expertise · Projects · Learning
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292f?logo=github&logoColor=white)](https://github.com/Shekoufeh-Neisarian)
+[![Research](https://img.shields.io/badge/Research-MT--TMVP-176b8a)](https://eprint.iacr.org/2026/2260)
+[![Practice](https://img.shields.io/badge/Practice-TryHackMe-cc3434)](https://tryhackme.com/)
+
 </div>
+
 ---
-About
-I am a Ph.D. researcher at the University of Passau, specializing in efficient and secure implementations of post-quantum cryptography. My research connects lattice-based cryptography, polynomial multiplication, FPGA architectures, and side-channel analysis.
-Alongside my research, I am developing practical skills in cybersecurity engineering, with an emphasis on network traffic analysis, security testing, and defensive controls. I also practice hands-on cybersecurity challenges on TryHackMe.
-Featured research
-<table>
-<tr>
-<td width="100%" valign="top">
-MT-TMVP — Multi-Threaded Toeplitz Matrix–Vector Product
-FPGA acceleration of polynomial multiplication for post-quantum cryptography
-Research on parallel, hardware-efficient polynomial multiplication for SNTRUP, including implementations on Artix-7 and Zynq UltraScale+ FPGA platforms. The work investigates area–delay efficiency and relates to ongoing side-channel security research.
-![SNTRUP](https://img.shields.io/badge/SNTRUP-Algorithm-555?style=flat-square)
-![FPGA](https://img.shields.io/badge/FPGA-Hardware_Design-555?style=flat-square)
-![Artix-7](https://img.shields.io/badge/Artix--7-Platform-555?style=flat-square)
-![Zynq](https://img.shields.io/badge/Zynq_UltraScale%2B-Platform-555?style=flat-square)
-</td>
-</tr>
-</table>
-Technical expertise
-Focus	Areas and technologies
-Cryptography	Post-quantum cryptography, NTRU / SNTRUP, lattice-based algorithms, polynomial multiplication
-Hardware security	FPGA, Verilog HDL, embedded systems, side-channel analysis
-Cybersecurity	Network security, traffic analysis, protocol inspection, intrusion detection, security testing
-Tools & languages	Python, PowerShell, Bash, Wireshark, Nmap, Bettercap, Suricata, Git, Kali Linux
-Cybersecurity projects
-<table>
-<tr>
-<td width="33%" valign="top">
-OT Packet Lens
-Industrial network traffic analysis
-Packet inspection and analysis for OT/ICS protocols including Modbus/TCP, S7comm, EtherNet/IP/CIP, and DNP3.
-</td>
-<td width="33%" valign="top">
-ARPple
-Network interception & defense
-ARP and DNS spoofing, plaintext HTTP inspection, response injection, and static ARP defense in a controlled environment.
-</td>
-<td width="34%" valign="top">
-Agent 007
-Windows security lab
-Firewall behavior, outbound remote-control channels, and scheduled-task persistence with an emphasis on defensive understanding.
-</td>
-</tr>
-</table>
-Hands-on learning
-<table>
-<tr><td width="50%" valign="top">
-TryHackMe — ongoing practice
-Practicing cybersecurity through interactive labs and challenges to strengthen my understanding of networking, security testing, and defense.
-Visit TryHackMe
-</td><td width="50%" valign="top">
-Google Developer Program
-Chrome DevTools User badge
-An introductory activity achievement in browser inspection and developer tools.
-</td></tr>
-</table>
----
-<div align="center">
-Cryptographic Hardware · Applied Security Research · Network Defense
-</div>
+
+### About
+
+I research efficient and secure implementations of post-quantum cryptography, focusing on **FPGA architectures, polynomial multiplication, and side-channel analysis**. I also develop practical skills in network security, traffic analysis, and defensive testing.
+
+### Featured research
+
+**MT-TMVP — Multi-Threaded Toeplitz Matrix–Vector Product**  
+FPGA-oriented polynomial multiplication for **SNTRUP**, with implementations targeting **Artix-7** and **Zynq UltraScale+** platforms.
+
+### Cybersecurity projects
+
+| Project | Focus |
+| :--- | :--- |
+| [OT Packet Lens](https://github.com/Shekoufeh-Neisarian/OT-Packet-Lens) | OT/ICS packet and protocol analysis |
+| [ARPple](https://github.com/Shekoufeh-Neisarian/ARPple) | ARP/DNS spoofing, HTTP analysis, and defenses |
+| [Agent 007](https://github.com/Shekoufeh-Neisarian/Agent-007) | Windows persistence, firewalls, and remote-control analysis |
+
+### Technologies
+
+**Research:** FPGA · Verilog HDL · NTRU/SNTRUP · Side-channel analysis  
+**Security:** Kali Linux · Wireshark · Bettercap · Suricata · Nmap  
+**Scripting:** Python · PowerShell · Bash
+
+### Ongoing learning
+
+- **TryHackMe:** hands-on cybersecurity labs and practice.
+- [**Google Developer Program — Chrome DevTools User**](https://me.developers.google.com/badges/activity/chrome-devtools/chrome-devtools-user?u=Shekoufeh+Neisarian)
