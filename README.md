@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/33358602/README.3.md)
 <div align="center">
 
 # Shekoufeh Neisarian
